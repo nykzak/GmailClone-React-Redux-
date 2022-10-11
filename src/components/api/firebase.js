@@ -4,7 +4,7 @@ import 'firebase/compat/auth';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCDXRsBtDeIHdxt3ZV-Q7lLoUylveWT3kU",
+  apiKey: "",
   authDomain: "clone-edbb0.firebaseapp.com",
   projectId: "clone-edbb0",
   storageBucket: "clone-edbb0.appspot.com",
